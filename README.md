@@ -29,3 +29,8 @@ This project was created for the Git & GitHub Fundamentals lab. It demonstrates 
 
 ## GitHub Online Edit
 This section was added directly on GitHub to practice fetching and pulling remote changes.
+
+
+## Local Diff Practice
+This change was made locally to show Git diff and staging.
+
